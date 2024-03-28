@@ -24,7 +24,7 @@
 ⦿Usage:
 
      ‣)Website is in fully working phase
-     ‣)website link:https://healthhub.odoo.com/
+     ‣)website link:https://healthhub.odoo.com
 
 ![Screenshot 2024-03-21 195637](https://github.com/Iqrima/Amarjeet-microazure-frt/assets/149868023/1c2c7788-a465-4829-81e6-400459ca4417)
 ![Screenshot 2024-03-21 195655](https://github.com/Iqrima/Amarjeet-microazure-frt/assets/149868023/a33dda7e-f6f1-46a6-85c1-30ec92e28455)
