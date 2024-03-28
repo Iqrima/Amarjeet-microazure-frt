@@ -15,6 +15,8 @@
     ‣)Content Delivery Network (CDN): Azure Front Door for fast and secure delivery of website content to users worldwide
 
     ‣)Web Application Firewall (WAF): Azure WAF policy to protect the website from malicious attacks
+    ‣)Health Bot(AI Service):It allows  AI-powered virtual health assistants to engage with patients, provide health-related information, triage symptoms, and even facilitate telehealth appointments. The service integrates with various data sources and can be customized to suit specific healthcare needs
+    
 
 ⦿Features:
 
